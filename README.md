@@ -73,4 +73,7 @@ The tutorial explains how to visualize the following information using *bpmn-vis
     - 🔴 Red: if there exist instances waiting late with a critical level
     - 🟠 Orange: if there exist instances waiting late with a risky level
 
+## Styling BPMN Elements
+
+For more details on how to style BPMN elements, check out the article: [All you need to know about styling BPMN elements](https://medium.com/@process-analytics/bpmn-visualization-all-you-need-to-know-about-styling-bpmn-elements-24289154c16c).
 
